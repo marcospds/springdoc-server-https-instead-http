@@ -1,0 +1,1 @@
+# springdoc-server-https-instead-http
